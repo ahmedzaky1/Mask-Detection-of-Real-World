@@ -1,10 +1,9 @@
-# Mask-Detection-of-Real-World
 # Problem Definition:
 
 Clearly define the problem you want to solve. In this case, it's detecting whether a person is wearing a mask correctly or not.
-Data Collection:
+# Data Collection:
 
-# Collect a dataset of images containing people with and without masks. You can create your own dataset by taking pictures or videos of people wearing masks or use publicly available datasets.
+Collect a dataset of images containing people with and without masks. You can create your own dataset by taking pictures or videos of people wearing masks or use publicly available datasets.
 # Data Preprocessing:
 
 Preprocess the dataset by resizing images, normalizing pixel values, and augmenting data if necessary. You might need to label the images accordingly (e.g., "with_mask" and "without_mask").
